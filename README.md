@@ -1,1 +1,1 @@
-# learn_vue
+# learn_laravel
